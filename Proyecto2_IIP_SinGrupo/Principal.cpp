@@ -1,14 +1,13 @@
 #include <iostream>
 //Importaciones de las clases
-#include "Persona.cpp"
-#include "Animal.cpp"
-
-#include "Cliente.cpp"
-#include "Medico.cpp"
-#include "Paciente.cpp"
-#include "Visita.cpp"
-#include "Factura.cpp"
-#include "Medicamento.cpp"
+#include "Persona.h"
+#include "Animal.h"
+#include "Cliente.h"
+#include "Medico.h"
+#include "Paciente.h"
+#include "Visita.h"
+#include "Factura.h"
+#include "Medicamento.h"
 //--------------------------------
 using namespace std;
 

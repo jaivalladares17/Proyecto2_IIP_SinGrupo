@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+class Persona {};
 class Medico : public Persona {
 private:
 	string fecha_ingreso;
@@ -25,6 +26,6 @@ public:
 	}
 
 	void generarCodigo() {
-		this->codigo = "Medico-" + this->getIdentidad();
+		this->codigo = "Medico-" + this->getCodigo();
 	}
 };

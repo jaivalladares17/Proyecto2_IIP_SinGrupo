@@ -50,7 +50,7 @@ public:
 	}
 
 	void imprimirDatos() {
-		cout << "Nombre: " << this->getNombre() <<  " , Edad: " << this->getEdad() << endl; //" , Sexo: " << this->getSexo() << endl;		" , Color: " << this->getColor() <<
+		cout << "Nombre: " << this->getNombre() << " , Edad: " << this->getEdad() << endl; //" , Sexo: " << this->getSexo() << endl;		" , Color: " << this->getColor() <<
 	}
 
 	void imprimirEspecieRaza() {

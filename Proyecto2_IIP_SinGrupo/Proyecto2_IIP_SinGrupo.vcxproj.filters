@@ -18,29 +18,31 @@
     <ClCompile Include="Principal.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Persona.cpp">
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cliente.h">
       <Filter>Archivos de origen</Filter>
-    </ClCompile>
-    <ClCompile Include="Animal.cpp">
+    </ClInclude>
+    <ClInclude Include="Animal.h">
       <Filter>Archivos de origen</Filter>
-    </ClCompile>
-    <ClCompile Include="Cliente.cpp">
+    </ClInclude>
+    <ClInclude Include="Factura.h">
       <Filter>Archivos de origen</Filter>
-    </ClCompile>
-    <ClCompile Include="Medico.cpp">
+    </ClInclude>
+    <ClInclude Include="Medicamento.h">
       <Filter>Archivos de origen</Filter>
-    </ClCompile>
-    <ClCompile Include="Medicamento.cpp">
+    </ClInclude>
+    <ClInclude Include="Medico.h">
       <Filter>Archivos de origen</Filter>
-    </ClCompile>
-    <ClCompile Include="Factura.cpp">
+    </ClInclude>
+    <ClInclude Include="Paciente.h">
       <Filter>Archivos de origen</Filter>
-    </ClCompile>
-    <ClCompile Include="Paciente.cpp">
+    </ClInclude>
+    <ClInclude Include="Persona.h">
       <Filter>Archivos de origen</Filter>
-    </ClCompile>
-    <ClCompile Include="Visita.cpp">
+    </ClInclude>
+    <ClInclude Include="Visita.h">
       <Filter>Archivos de origen</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>

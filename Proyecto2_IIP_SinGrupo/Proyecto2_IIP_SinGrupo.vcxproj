@@ -19,15 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Animal.cpp" />
-    <ClCompile Include="Cliente.cpp" />
-    <ClCompile Include="Factura.cpp" />
-    <ClCompile Include="Medicamento.cpp" />
-    <ClCompile Include="Medico.cpp" />
-    <ClCompile Include="Paciente.cpp" />
-    <ClCompile Include="Persona.cpp" />
     <ClCompile Include="Principal.cpp" />
-    <ClCompile Include="Visita.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animal.h" />
+    <ClInclude Include="cliente.h" />
+    <ClInclude Include="Factura.h" />
+    <ClInclude Include="Medicamento.h" />
+    <ClInclude Include="Medico.h" />
+    <ClInclude Include="Paciente.h" />
+    <ClInclude Include="Persona.h" />
+    <ClInclude Include="Visita.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
